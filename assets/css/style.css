@@ -234,7 +234,7 @@ main {
 
     .hero {
         width: 100%;
-        background: linear-gradient(#00000071, #00000071), url('/assets/images/party-image.jpeg') center/cover no-repeat;
+        background: linear-gradient(#00000071, #00000071), url('assets//images/party-image.jpeg') center/cover no-repeat;
         background-attachment: fixed;
 
         display: flex;
@@ -632,7 +632,7 @@ main {
 
 
 footer {
-    background: linear-gradient(to right, #ffffff, #ffffff9a), url('/assets/images/party-image.jpeg') center/cover no-repeat;
+    background: linear-gradient(to right, #ffffff, #ffffff9a), url('assets//images/party-image.jpeg') center/cover no-repeat;
     background-attachment: fixed;
     color: var(--gray1);
     padding: 20px 0;
